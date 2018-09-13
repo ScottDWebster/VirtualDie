@@ -51,9 +51,9 @@ random.seed(random.getrandbits(30))
 showSide = 0
 # Loop forever
 while(True):
-    # If either button is pressed pick a face at random and
-    # show the blank face
     if button_a.is_pressed() or button_b.is_pressed():
+        # If either button is pressed pick a face at random and
+        # show the blank face
         showSide = random.randint(1,6)
         display.show(dieSides[0])
     else:

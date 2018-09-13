@@ -1,4 +1,4 @@
-# Virtual Die by Scott Webster 9/2018
+# Virtual Die by Scott Webster September 2018
 #
 # A MicroPython program for the BBC Micro:bit
 #

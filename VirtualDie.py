@@ -3,6 +3,7 @@
 # A MicroPython program for the BBC Micro:bit
 #
 # Press a button to get a randomly chosen die value
+# represented as a die face image.
 #
 from microbit import *
 import random

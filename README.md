@@ -4,4 +4,4 @@ This is a simple programming exercise I decided to undertake as programming prac
 
 Press either the A or B button on the Micro:bit and it will display a randomly chosen die face representing one of the six sides of a die.
 
-[Demo video](https://youtu.be/RsWxPQvKYMw)
+[Verion 1.0 Demo video](https://youtu.be/RsWxPQvKYMw)
